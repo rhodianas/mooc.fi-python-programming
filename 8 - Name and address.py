@@ -1,8 +1,8 @@
 # Write your solution here
-givenName = input("Given name:")
-familyName = input("Family name:")
+given_name = input("Given name:")
+family_name = input("Family name:")
 address = input("Street address:")
-cityAndPostalCode = input("City and postal code:")
-print(givenName + " " + familyName)
+city_postal_code = input("City and postal code:")
+print(given_name + " " + family_name)
 print(address)
-print(cityAndPostalCode)
+print(city_postal_code)
